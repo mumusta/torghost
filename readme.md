@@ -51,6 +51,8 @@ Torghost v3.0 usage:
 `  -u      --update       Checks for updates`
 
 
+## Update
 
+- 666
 
 
